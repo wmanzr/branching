@@ -4,5 +4,6 @@ class Main{
         System.out.print("первый");
         System.out.print("второй");
         System.out.print("третий");
+        System.out.print("четвертый");
     }
 }
