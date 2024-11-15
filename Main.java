@@ -6,5 +6,9 @@ class Main{
         System.out.print("третий");
         System.out.print("четвертый");
         System.out.print("пятый");
+        System.out.print("пятый");
+        System.out.print("шестой");
+        System.out.print("седьмой");
+        System.out.print("восьмой");
     }
 }
